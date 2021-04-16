@@ -1,7 +1,7 @@
 ## Data exploration in Python
 
 This repository has some workbooks showing 
-1. basic data exploration and plotting techniques.
+1. Basic data exploration and plotting techniques - plotting different distributions
 2. Hypothesis testing - comparing means and proportions
 3. Bar plots with broken y axes to show outlier data
  
